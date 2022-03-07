@@ -1,3 +1,3 @@
 # mlops-pipeline
 
-### This project helps me to create the Machine learning pipeline and deploy the project as docker containers on server
+### This project is demonstrate the Machine learning pipeline and deploy the project as docker containers on server
